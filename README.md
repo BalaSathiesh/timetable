@@ -112,5 +112,5 @@ Execute the program
 
 # OUPUT
 ![ex 3](https://user-images.githubusercontent.com/128462891/236659801-72e9c622-9437-4cdb-9b20-dc74b98b77af.jpg)
-![Screenshot (28)](https://user-images.githubusercontent.com/128462891/236659803-569130c1-1af9-472b-9a3a-5e7209b0dcb2.png)
+
 
